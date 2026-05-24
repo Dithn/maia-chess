@@ -2,6 +2,14 @@
 
 ## [website](https://maiachess.com)/[paper](https://arxiv.org/abs/2006.01855)/[code](https://github.com/CSSLab/maia-chess)/[lichess](https://lichess.org/team/maia-bots)
 
+🆕♟️🤖🚀✨ **Maia-3 is now available!** The state of the art in human chess modeling built with our new Chessformer architecture. Outperforms all prior models with significantly fewer parameters.
+
+- 📄 **Paper@ICML '26**: [Chessformer: A Unified Architecture for Chess Modeling](https://arxiv.org/pdf/2605.19091)
+- 🤖 **Models**: [HuggingFace models](https://huggingface.co/collections/UofTCSSLab/maia3)
+- 💻 **Code**: [Maia-3](https://github.com/CSSLab/maia3)
+
+---
+
 🆕♟️🤖🚀✨ **Maia-2 is now available!** The next generation of human-like chess AI with a unified model that coherently captures human play across skill levels.
 
 - 📄 **Paper@NeurIPS '24**: [Maia-2: A Unified Model for Human-AI Alignment in Chess](https://arxiv.org/abs/2409.20553)
